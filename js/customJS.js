@@ -17,7 +17,7 @@ function registerDevice() {
         navigator.userAgent.match(/iPod/i)
     ) {
         window.open(
-            "https://apps.apple.com/id/app/id1013717463",
+            "https://apps.apple.com/id/app/human-capital-application/id6449690655?l=id",
             "_blank"
         );
     } else if (navigator.userAgent.match(/Android/i)) {
