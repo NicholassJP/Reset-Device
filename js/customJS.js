@@ -1,6 +1,6 @@
 $("#resetPIN").on("click", function (e) {
     Swal.fire({
-        imageUrl: "/img/ic_sukses.png",
+        icon: "success",
         title: "Horee..<br>Reset Device ID Berhasil!!",
         color: "#003F57",
         text: "Silahkan login kembali Aplikasi Human Capital diperangkat Anda",
